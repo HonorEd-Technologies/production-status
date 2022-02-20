@@ -6,7 +6,7 @@ sites:
   - name: Website www
     url: https://www.honor.education
   - name: Website
-    url: https://honor.education
+    url: http://honor.education
   - name: dashboard
     url: https://dashboard.honor.education
   - name: API
