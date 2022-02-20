@@ -4,7 +4,7 @@ repo: production-status # The name of this repository
 
 sites:
   - name: Website
-    url: https://www.google.com
+    url: https://www.honor.education
   - name: dashboard
     url: https://dashboard.honor.education
   - name: API
