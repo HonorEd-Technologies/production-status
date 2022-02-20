@@ -1,22 +1,42 @@
 [
   {
-    "name": "Website",
+    "name": "Website www",
     "url": "https://www.honor.education",
     "icon": "https://favicons.githubusercontent.com/www.honor.education",
+    "slug": "website-www",
+    "status": "down",
+    "uptime": "6.69%",
+    "uptimeDay": "6.69%",
+    "uptimeWeek": "6.69%",
+    "uptimeMonth": "6.69%",
+    "uptimeYear": "6.69%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-02-20": 0
+    }
+  },
+  {
+    "name": "Website",
+    "url": "https://honor.education",
+    "icon": "https://favicons.githubusercontent.com/honor.education",
     "slug": "website",
     "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.16%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.16%",
     "time": 75,
     "timeDay": 75,
     "timeWeek": 75,
     "timeMonth": 75,
     "timeYear": 75,
     "dailyMinutesDown": {
-      "2022-02-20": 0
+      "2022-02-20": 1
     }
   },
   {
@@ -30,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 376,
-    "timeDay": 376,
-    "timeWeek": 376,
-    "timeMonth": 376,
-    "timeYear": 376,
+    "time": 385,
+    "timeDay": 385,
+    "timeWeek": 385,
+    "timeMonth": 385,
+    "timeYear": 385,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 320,
-    "timeDay": 320,
-    "timeWeek": 320,
-    "timeMonth": 320,
-    "timeYear": 320,
+    "time": 318,
+    "timeDay": 318,
+    "timeWeek": 318,
+    "timeMonth": 318,
+    "timeYear": 318,
     "dailyMinutesDown": {}
   }
 ]
