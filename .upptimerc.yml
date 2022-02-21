@@ -14,8 +14,6 @@ sites:
     expectedStatusCodes:
       - 200
       - 404
-status-website:
-  theme: ocean
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -25,6 +23,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "Monitor and status page, powered entirely by GitHub."
+  theme: ocean
   introMessage: Status page 
   navbar:
     - title: Status
