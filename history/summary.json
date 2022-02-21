@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.honor.education",
     "slug": "website-www",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "98.10%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "98.10%",
+    "uptimeMonth": "98.10%",
+    "uptimeYear": "98.10%",
     "time": 294,
     "timeDay": 294,
     "timeWeek": 294,
     "timeMonth": 294,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2022-02-21": 0
+      "2022-02-21": 4
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/honor.education",
     "slug": "website",
     "status": "down",
-    "uptime": "91.24%",
-    "uptimeDay": "91.24%",
-    "uptimeWeek": "91.24%",
-    "uptimeMonth": "91.24%",
-    "uptimeYear": "91.24%",
+    "uptime": "90.23%",
+    "uptimeDay": "90.23%",
+    "uptimeWeek": "90.23%",
+    "uptimeMonth": "90.23%",
+    "uptimeYear": "90.23%",
     "time": 78,
     "timeDay": 78,
     "timeWeek": 78,
     "timeMonth": 78,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2022-02-21": 0,
+      "2022-02-21": 4,
       "2022-02-20": 27
     }
   },
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 348,
-    "timeDay": 348,
-    "timeWeek": 348,
-    "timeMonth": 348,
-    "timeYear": 348,
+    "time": 353,
+    "timeDay": 353,
+    "timeWeek": 353,
+    "timeMonth": 353,
+    "timeYear": 353,
     "dailyMinutesDown": {}
   },
   {
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 318,
-    "timeWeek": 318,
-    "timeMonth": 318,
-    "timeYear": 318,
+    "time": 307,
+    "timeDay": 307,
+    "timeWeek": 307,
+    "timeMonth": 307,
+    "timeYear": 307,
     "dailyMinutesDown": {}
   }
 ]
