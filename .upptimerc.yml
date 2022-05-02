@@ -32,7 +32,6 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 assignees:
- - rcor
  - karanamit
  - dani-honored
  - honor-ed
